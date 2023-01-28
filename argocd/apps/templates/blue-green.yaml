@@ -13,7 +13,7 @@ spec:
       parameters:
       - name: image.tag
         # change value to green or blue
-        value: blue
+        value: green
   destination:
     server: 'https://kubernetes.default.svc'
     namespace: blue-green
